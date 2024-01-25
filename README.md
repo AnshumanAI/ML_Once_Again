@@ -1,6 +1,5 @@
 # ML_Once_Again
 Simple Projects in Notebooks (generally colab).
-###overview
 Welcome to Machine Learning Once Again Notebooks repository! Whether you're refreshing your skills or exploring new concepts, these notebooks provide a practical hands-on experience.
 This is written by Chatgpt, actually I used to do ML projects prior to my postgraduate. Starting from scratch all over again.
 
